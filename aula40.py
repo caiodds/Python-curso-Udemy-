@@ -40,7 +40,4 @@ while True:
 
     sair = input('Deseja sair? [s]Sair: ').lower().startswith('s')
     if sair is True:
-         break
-
-
-    
+         break    
